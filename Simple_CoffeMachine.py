@@ -94,3 +94,4 @@ while not is_over:
                 print(f"Here is your {demand}, please enjoy your drink and thank you for using our services!")
             else:
                 print("Not enough. Please take your coins.")
+               
